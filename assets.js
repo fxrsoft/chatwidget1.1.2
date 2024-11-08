@@ -168,7 +168,7 @@ header h2 {
   outline: none;
   resize: none;
   max-height: 180px;
-  padding: 15px 15px 15px 0;
+  padding: 15px 15px 24px 0;
   font-size: 0.95rem;
 }
 .chat-input span {
