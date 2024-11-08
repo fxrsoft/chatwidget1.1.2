@@ -118,7 +118,7 @@ const handleChat = (data) => {
 
     // Clear the input textarea and set its height to default
     chatInput.value = "";
-    chatInput.style.height = `${inputInitHeight}px`;    
+    //chatInput.style.height = `${inputInitHeight}px`;    
 
     // Append the user's message to the chatbox
     let reader = new FileReader();
